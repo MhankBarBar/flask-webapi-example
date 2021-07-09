@@ -12,11 +12,12 @@
 ```
 
 # Screenshot
-
-### Home Page
+<h2>Home Page</h2>
 <img align="center" height="auto" src="https://github.com/mhankbarbar/flask-webapi-example/blob/master/api_example/static/home.jpg"/>
-### Login Page
+<hr/>
+<h2>Login Page</h2>
 <img align="center" height="auto" src="https://github.com/mhankbarbar/flask-webapi-example/blob/master/api_example/static/login.jpg"/>
-### Register Page
+<hr/>
+<h2>Register Page</h2>
 <img align="center" height="auto" src="https://github.com/mhankbarbar/flask-webapi-example/blob/master/api_example/static/regist.jpg"/>
 
