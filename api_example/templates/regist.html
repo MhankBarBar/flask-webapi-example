@@ -1,0 +1,21 @@
+{% extends "form-page.html" %}
+{% block title %}Sign Up{% endblock %}
+{% block content %}
+                                    <h4 class="text-center mb-4">Create new account</h4>
+                                    <form method="POST">
+                                        <div class="form-group">
+                                            <label class="mb-1"><strong>Username</strong></label>
+                                            <input type="text" name="username" class="form-control" placeholder="mburmbur" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="mb-1"><strong>Password</strong></label>
+                                            <input type="password" name="password" class="form-control" placeholder="Password" required>
+                                        </div>
+                                        <div class="text-center">
+                                            <button type="submit" class="btn btn-primary btn-block">Sign Up</button>
+                                        </div>
+                                    </form>
+                                    <div class="new-account mt-3">
+                                        <p>Have an account? <a class="text-primary" href="/login">Sign In</a></p>
+                                    </div>
+{% endblock %}
