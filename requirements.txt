@@ -11,4 +11,4 @@ MarkupSafe==2.0.1
 python-dotenv==0.18.0
 requests==2.25.1
 SQLAlchemy==1.3.23
-Werkzeug==2.0.1
+Werkzeug==2.2.3
