@@ -1,6 +1,6 @@
 bs4==0.0.1
 click==7.1.2
-Flask==1.1.2
+Flask==2.3.2
 Flask-SQLAlchemy==2.4.4
 greenlet==1.1.0
 html2text==2020.1.16
